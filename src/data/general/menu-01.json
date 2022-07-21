@@ -6,15 +6,15 @@
     },
     {
         "id": 2,
-        "text": "Explore",
-        "path": "/explore-13"
+        "text": "About",
+        "path": "/about"
     },
     {
         "id": 3,
-        "text": "About",
-        "path": "/about"
+        "text": "Explore",
+        "path": "/explore-13"
 
-        /*     "submenu": [
+             "submenu": [
             {
                 "id": 11,
                 "text": "Explore Filter",
@@ -83,7 +83,7 @@
                 "path": "/explore-13",
                 "isLive": true
             } 
-        ] */
+        ] 
     },
     /*
     {

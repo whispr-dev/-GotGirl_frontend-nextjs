@@ -2,9 +2,7 @@
     {
         "id": 1,
         "text": "Home",
-        "path": "/index-15",
-
-        ]
+        "path": "/index-15"
     },
     {
         "id": 2,
@@ -14,8 +12,9 @@
     {
         "id": 3,
         "text": "About",
-        "path": "/about",
-/*     "submenu": [
+        "path": "/about"
+
+        /*     "submenu": [
             {
                 "id": 11,
                 "text": "Explore Filter",

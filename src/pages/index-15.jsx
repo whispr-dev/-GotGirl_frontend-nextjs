@@ -52,6 +52,13 @@ const Home = () => {
                         products: liveAuctionData,
                     }}
                 />
+                <TopSellerArea
+                    data={{
+                        ...content["top-sller-section"],
+                        sellers: sellerData,
+                    }}
+                />
+                <VideoArea data={content["video-section"]} />
                 <CategoryArea data={content["category-section"]} />
                 <CollectionArea
                     data={{
@@ -80,7 +87,6 @@ const Home = () => {
                         placeBid: true,
                     }}
                 />
-                <VideoArea data={content["video-section"]} />
             </main>
             <Footer data={content["brand-section"]} space={3} />
         </Wrapper>

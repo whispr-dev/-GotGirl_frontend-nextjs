@@ -13,13 +13,13 @@
     },
     {
         "id": 3,
-        "text": "Explore Product",
+        "text": "Explore",
         "path": "list-item-3",
         "icon": "feather-trending-up"
     },
     {
         "id": 4,
-        "text": "Newest Item",
+        "text": "Newest NFT",
         "path": "list-item-4",
         "icon": "feather-trending-up"
     }

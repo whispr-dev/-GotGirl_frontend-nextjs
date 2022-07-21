@@ -2,9 +2,9 @@
     "id": "footer-data-02",
     "logo": [
         {
-            "src": "/images/logo/gotgirl-logo-transparent-250px.png",
+            "src": "/images/logo/gotgirl-logo.svg",
             "alt": "logo"
         }
     ],
-    "copyright_text": "2022. All rights reserved by GotGirl."
+    "copyright_text": "© 2022 | gotgirl.cam"
 }

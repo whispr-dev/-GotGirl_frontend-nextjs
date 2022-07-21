@@ -3,11 +3,11 @@
     "logo-widget": {
         "logo": [
             {
-                "src": "/images/logo/gotgirl-logo-transparent-250px.png",
+                "src": "/images/logo/gotgirl-logo.svg",
                 "alt": "logo"
             }
         ],
-        "text": "Created by naked crypto thots making simps happy"
+        "text": "If you build it they will come"
     },
     "newsletter-widget": {
         "title": "Get The Latest GotGirl Updates",
@@ -142,5 +142,5 @@
             }
         ]
     },
-    "copyright_text": "©2022 GotGirl, Inc. All rights reserved"
+    "copyright_text": "© 2022 | gotgirl.cam"
 }

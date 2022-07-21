@@ -2,10 +2,10 @@
     "id": "header-data-2",
     "logo": [
         {
-            "src": "/images/logo/gotgirl-logo-transparent-250px.png"
+            "src": "/images/logo/gotgirl-logo.svg"
         },
         {
-            "src": "/images/logo/gotgirl-logo-transparent-250px.png"
+            "src": "/images/logo/gotgirl-logo.svg"
         }
     ],
     "author": {

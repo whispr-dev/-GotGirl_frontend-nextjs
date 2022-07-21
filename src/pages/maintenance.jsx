@@ -8,7 +8,7 @@ export async function getStaticProps() {
 
 const ComingSoon = () => (
     <Wrapper>
-        <SEO pageTitle="Coming Soon" />
+        <SEO pageTitle="GotGirl.cam is Coming Soon" />
         <MaintenanceArea />
     </Wrapper>
 );

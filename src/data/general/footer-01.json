@@ -3,14 +3,14 @@
     "logo-widget": {
         "logo": [
             {
-                "src": "/images/logo/logo-white.png",
+                "src": "/images/logo/gotgirl-logo-transparent-250px.png",
                 "alt": "logo"
             }
         ],
-        "text": "Created with the collaboration of over 60 of the world's best Nuron Artists."
+        "text": "Created by naked crypto thots making simps happy"
     },
     "newsletter-widget": {
-        "title": "Get The Latest Nuron Updates",
+        "title": "Get The Latest GotGirl Updates",
         "note": "Email is safe. We don't spam."
     },
     "quicklink-widget": {
@@ -142,5 +142,5 @@
             }
         ]
     },
-    "copyright_text": "©2022 Nuron, Inc. All rights reserved"
+    "copyright_text": "©2022 GotGirl, Inc. All rights reserved"
 }

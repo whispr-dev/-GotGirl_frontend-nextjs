@@ -6,19 +6,19 @@
             "headings": [
                 {
                     "id": 1,
-                    "content": "Private shows from the hottest cam-girls on the blockchain."
+                    "content": "Private shows from the hottest cam-girls on the blockchain"
                 }
             ],
             "texts": [
                 {
                     "id": 1,
-                    "content": "On-demand fetish fulfillment NFT."
+                    "content": "On-demand fetish fulfillment NFT"
                 }
             ],
             "buttons": [
                 {
                     "id": 1,
-                    "content": "Get Started",
+                    "content": "Find Your Girl",
                     "path": "/"
                 },
                 {
@@ -30,7 +30,7 @@
             ],
             "images": [
                 {
-                    "src": "/images/logo/gotgirl-logo-transparent-1030px.png"
+                    "src": "/images/logo/gotgirl-logo-transparent-1000x1030.png"
                 }
             ]
         },

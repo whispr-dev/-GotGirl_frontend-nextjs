@@ -42,6 +42,11 @@ const Header = ({ className }) => {
                                     <MainMenu menu={menuData} />
                                 </nav>
                             </div>
+                            <div className="setting-option mobile-menu-bar d-block d-xl-none">
+                                <div className="hamberger">
+                                    <BurgerButton onClick={offcanvasHandler} />
+                                </div>
+                            </div>
                         </div>
                         <div className="header-right">
                             <div className="setting-option d-none d-lg-block">
@@ -84,11 +89,6 @@ const Header = ({ className }) => {
                                         <i className="feather-bell" />
                                         <span className="badge">6</span>
                                     </Anchor>
-                                </div>
-                            </div>
-                            <div className="setting-option mobile-menu-bar d-block d-xl-none">
-                                <div className="hamberger">
-                                    <BurgerButton onClick={offcanvasHandler} />
                                 </div>
                             </div>
                         </div>

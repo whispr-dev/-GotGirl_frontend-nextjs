@@ -13,10 +13,5 @@
         "id": 3,
         "text": "Explore",
         "path": "/explore-13"
-    },
-    {
-        "id": 4,
-        "text": "Contact",
-        "path": "/contact"
     }
 ]

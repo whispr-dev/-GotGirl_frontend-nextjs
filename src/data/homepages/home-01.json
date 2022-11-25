@@ -6,26 +6,26 @@
             "headings": [
                 {
                     "id": 1,
-                    "content": "Private shows from the hottest cam-girls on the blockchain"
+                    "content": "On-demand fetish fulfillment NFT platform"
                 }
             ],
             "texts": [
                 {
                     "id": 1,
-                    "content": "On-demand fetish fulfillment NFT"
+                    "content": "Private shows from the hottest cam-girls on the blockchain"
                 }
             ],
             "buttons": [
                 {
                     "id": 1,
-                    "content": "Find Your Girl",
-                    "path": "/"
+                    "content": "Find a Girl",
+                    "path": "/explore"
                 },
                 {
                     "id": 2,
                     "color": "primary-alta",
-                    "content": "Create",
-                    "path": "/create"
+                    "content": "Learn More",
+                    "path": "/about"
                 }
             ],
             "images": [
@@ -37,7 +37,7 @@
         {
             "section": "service-section",
             "section_title": {
-                "title": "Create and sell your NFTs"
+                "title": "Create and sell your performances as NFTs"
             },
             "items": [
                 {
@@ -45,7 +45,7 @@
                     "title": "Set up your wallet",
                     "path": "/connect",
                     "subtitle": "Step-01",
-                    "description": "Powerful features and inclusions, which makes Nuron standout, easily customizable and scalable.",
+                    "description": "Connect a crypto wallet like Metamask or Coinbase wallet to get started!",
                     "images": [
                         {
                             "src": "/images/icons/shape-7.png"
@@ -54,10 +54,10 @@
                 },
                 {
                     "id": 2,
-                    "title": "Create your collection",
+                    "title": "Create a collection",
                     "path": "/collection",
                     "subtitle": "Step-02",
-                    "description": "A great collection of beautiful website templates for your need. Choose the best suitable template.",
+                    "description": "Create a collection of clips and photos to showcase your talent and market your services",
                     "images": [
                         {
                             "src": "/images/icons/shape-1.png"
@@ -66,10 +66,10 @@
                 },
                 {
                     "id": 3,
-                    "title": "Add your NFT's",
+                    "title": "Receive booking requests",
                     "path": "/connect",
                     "subtitle": "Step-03",
-                    "description": "We've made the template fully responsive, so it looks great on all devices: desktop, tablets and.",
+                    "description": "Accept performance requests, upload and edit the video content, GotGirl transforms that into an NFT ready to sell.",
                     "images": [
                         {
                             "src": "/images/icons/shape-5.png"
@@ -78,10 +78,10 @@
                 },
                 {
                     "id": 4,
-                    "title": "Sell Your NFT's",
+                    "title": "Sell your NFTs",
                     "path": "/creator",
                     "subtitle": "Step-04",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth NFT's.",
+                    "description": "Once the order is fulfilled, a smart contract delivers the NFT to the buyer and you will receive payment in cryptocurrency.",
                     "images": [
                         {
                             "src": "/images/icons/shape-6.png"

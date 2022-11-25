@@ -9,31 +9,31 @@
         {
             "id": 1,
             "icon": "feather-facebook",
-            "link": "https://facebook.com",
+            "link": "#!",
             "title": "Facebook"
         },
         {
             "id": 2,
             "icon": "feather-twitter",
-            "link": "https://twitter.com",
+            "link": "#!",
             "title": "Twitter"
         },
         {
             "id": 3,
             "icon": "feather-instagram",
-            "link": "https://instagram.com",
+            "link": "#!",
             "title": "Instagram"
         },
         {
             "id": 4,
             "icon": "feather-linkedin",
-            "link": "https://linkedin.com",
+            "link": "#!",
             "title": "linkedin"
         },
         {
             "id": 5,
             "icon": "feather-mail",
-            "link": "https://mail.com",
+            "link": "info@gotgirl.cam",
             "title": "mail"
         }
     ]

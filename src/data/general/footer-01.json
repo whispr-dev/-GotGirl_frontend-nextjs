@@ -3,52 +3,32 @@
     "logo-widget": {
         "logo": [
             {
-                "src": "/images/logo/gotgirl-logo.svg",
-                "alt": "logo"
+                "src": "/images/logo/gotgirl-logotext.svg",
+                "alt": "gotgirl-logo"
             }
         ],
-        "text": "If you build it they will come"
+        "text": "On-demand fetish fulfillment NFT platform"
     },
     "newsletter-widget": {
-        "title": "Get The Latest GotGirl Updates",
-        "note": "Email is safe. We don't spam."
+        "title": "Want our newsletter?",
+        "note": "Add your email to our list."
     },
     "quicklink-widget": {
-        "title": "Nuron",
+        "title": "GotGirl.cam",
         "menu": [
             {
                 "id": 1,
-                "text": "Protocol Explore",
-                "path": "/explore-01"
+                "text": "Find a Girl",
+                "path": "/explore-13"
             },
             {
                 "id": 2,
-                "text": "System Token",
+                "text": "Learn More",
                 "path": "/about"
             },
             {
                 "id": 3,
-                "text": "Otimize Time",
-                "path": "/about"
-            },
-            {
-                "id": 4,
-                "text": "Visual Checking",
-                "path": "/about"
-            },
-            {
-                "id": 5,
-                "text": "Fadeup System",
-                "path": "/blog"
-            },
-            {
-                "id": 6,
-                "text": "Activity Log",
-                "path": "/activity"
-            },
-            {
-                "id": 7,
-                "text": "System Auto Since",
+                "text": "Blog",
                 "path": "/blog"
             }
         ]
@@ -58,38 +38,23 @@
         "menu": [
             {
                 "id": 1,
-                "text": "Market Explore",
-                "path": "/explore-01"
+                "text": "Sign-up and verification",
+                "path": "/sign-up"
             },
             {
                 "id": 2,
-                "text": "Ready Token",
-                "path": "/about"
+                "text": "Support",
+                "path": "/support"
             },
             {
                 "id": 3,
-                "text": "Otimize Time",
-                "path": "/about"
-            },
+                "text": "Privacy Policy",
+                "path": "/privacy-policy"
+            }
             {
-                "id": 4,
-                "text": "Main Option",
-                "path": "/about"
-            },
-            {
-                "id": 5,
-                "text": "Blog Grid",
-                "path": "/blog"
-            },
-            {
-                "id": 6,
-                "text": "About Us",
-                "path": "/about"
-            },
-            {
-                "id": 7,
-                "text": "Fix Bug",
-                "path": "/blog"
+                "id": 3,
+                "text": "Contact Us",
+                "path": "/contact"
             }
         ]
     },
@@ -142,5 +107,5 @@
             }
         ]
     },
-    "copyright_text": "© 2022 | gotgirl.cam"
+    "copyright_text": "© 2022 | GotGirl.cam"
 }

@@ -7,7 +7,7 @@ const NewsletterWidget = ({ data }) => (
             <input
                 type="text"
                 className="form-control bg-color--2"
-                placeholder="Your username"
+                placeholder="Email address"
                 aria-label="Recipient's username"
             />
             <div className="input-group-append">

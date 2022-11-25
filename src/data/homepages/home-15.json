@@ -12,22 +12,22 @@
             "texts": [
                 {
                     "id": 1,
-                    "content": "It's a crypto peepshow.  A creepshow?  Get private shows from the hottest cam-girls minted as an NFT to keep in your spank bank.  Get your simp on."
+                    "content": "Request private shows from the hottest cam-girls minted as an NFT and sent to your crypto wallet!"
                 }
             ],
             "buttons": [
                 {
                     "id": 1,
                     "shape": "ellipse",
-                    "content": "Explore",
-                    "path": "/collection"
+                    "content": "Find a Girl",
+                    "path": "/explore"
                 },
                 {
                     "id": 2,
                     "shape": "ellipse",
                     "color": "primary-alta",
-                    "content": "Create Nft",
-                    "path": "/create"
+                    "content": "Learn More",
+                    "path": "/about"
                 }
             ],
             "images": [

@@ -50,9 +50,9 @@
                 "id": 3,
                 "text": "Privacy Policy",
                 "path": "/privacy-policy"
-            }
+            },
             {
-                "id": 3,
+                "id": 4,
                 "text": "Contact Us",
                 "path": "/contact"
             }

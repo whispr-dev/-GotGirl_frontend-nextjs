@@ -28,16 +28,11 @@ const MyApp = ({ Component, pageProps }) => {
     });
     return (
         <SSRProvider>
-            {getLayout(
-                <MoralisProvider
-                    appId={moralisAppId}
-                    serverUrl={moralisServerURL}
-                >
-                    <ThemeProvider defaultTheme="dark">
-                        <Component {...pageProps} />
-                    </ThemeProvider>
-                </MoralisProvider>
-            )}
+            <MoralisProvider appId={moralisAppId} serverUrl={moralisServerURL}>
+                <ThemeProvider defaultTheme="dark">
+                    <Component {...pageProps} />
+                </ThemeProvider>
+            </MoralisProvider>
         </SSRProvider>
     );
 };
